@@ -13,6 +13,7 @@ public class CameraPreview extends SurfaceView implements
     private SurfaceHolder mSurfaceHolder;
     private Camera mCamera;
 
+
     // Constructor that obtains context and camera
     @SuppressWarnings("deprecation")
     public CameraPreview(Context context, Camera camera) {
