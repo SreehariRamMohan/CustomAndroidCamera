@@ -24,7 +24,7 @@ public class Custom_CameraActivity extends Activity {
     private Camera mCamera;
     private CameraPreview mCameraPreview;
     public static final int MY_PERMISSIONS_REQUEST_CAMERA = 0;
-
+    //CHange
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
